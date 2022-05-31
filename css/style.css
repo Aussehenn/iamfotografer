@@ -246,7 +246,6 @@ body.lock {
 .about .ttp {
 	position: absolute;
 	right: 0;
-	margin-top: -22px;
 	height: 2px;
 	width: 35%;
 	background-color: #7f7f82;
